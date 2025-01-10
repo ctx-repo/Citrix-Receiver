@@ -1,3 +1,5 @@
+# Citrix Receiver
+
 **Citrix Receiver** is a legacy client software that enables secure access to virtual desktops, applications, and other corporate resources hosted on Citrix servers. Designed for businesses of all sizes, Citrix Receiver allows employees, contractors, and partners to connect to their work environments from anywhere, on any device. The tool has been replaced by **Citrix Workspace App**, but it remains a critical part of many organizations' infrastructure, especially in environments using older versions of Citrix products.
 
 This repository serves as a comprehensive resource hub for Citrix Receiver users, offering scripts, configuration guides, and troubleshooting tips to optimize its performance and integration in modern IT environments.
